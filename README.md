@@ -1,6 +1,6 @@
 # 🤖 Vision-Guided Robotic Arm System
 
-A smart and low-cost **robotic arm** system powered by **Computer Vision** and **ESP32**, capable of **autonomously detecting and picking up objects** from a bird’s-eye view. Designed as a practical implementation of real-time robotics using widely accessible tools.
+A smart and low-cost **robotic arm** system powered by **Computer Vision** and **ESP32**, capable of **autonomously detecting and picking up objects** from a bird’s-eye view (converted from perspective view). Designed as a practical implementation of real-time robotics using widely accessible tools.
 
 ---
 
