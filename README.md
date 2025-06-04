@@ -1,4 +1,4 @@
-# 🤖 Vision-Guided Robotic Arm System
+# 🤖 Vision-Guided Robotic Manipulation
 
 A smart and low-cost **robotic arm** system powered by **Computer Vision** and **ESP32**, capable of **autonomously detecting and picking up objects** from a bird’s-eye view (converted from perspective view). Designed as a practical implementation of real-time robotics using widely accessible tools.
 
@@ -8,7 +8,7 @@ A smart and low-cost **robotic arm** system powered by **Computer Vision** and *
 
 - 📷 **Live video stream** using a mobile phone camera.
 - 🧠 **Computer vision** to detect objects in real-time.
-- 🦾 **3-axis robotic arm** for pick-and-place operations.
+- 🦾 **3-DOF robotic arm** for pick-and-place operations.
 - 🔁 Fully **autonomous control**, no buttons or manual triggers.
 - ⚙️ Real-time object tracking and coordinate mapping.
 - 🧩 Modular and extendable for future upgrades.
@@ -29,6 +29,7 @@ A smart and low-cost **robotic arm** system powered by **Computer Vision** and *
 
 ## 📦 Features in a Nutshell
 
+- **Fully Mobile:** Fully mobile system, can be transported easily and setup instantly for operation.
 - **Effecient Vision:** Captures image and detects object positions only when required with minimal delay.
 - **Autonomous Control:** No human interaction needed after start.
 - **Lightweight:** Designed to run on standard laptop hardware.
